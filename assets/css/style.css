@@ -8025,7 +8025,7 @@ h1, h2, h3, h4, h5,
   font-family: "Poppins", Arial, sans-serif; }
 
 .text-primary {
-  color: #82ae46 !important; }
+  color: #981004 !important; }
 
 .topper {
   font-size: 11px;
@@ -8156,7 +8156,7 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #82ae46 !important; }
+      color: #981004 !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
       background: #82ae46;
@@ -8191,7 +8191,7 @@ h1, h2, h3, h4, h5,
       padding-bottom: 0.9rem !important;
       color: #000000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
-        color: #82ae46 !important; }
+        color: #981004 !important; }
     .ftco-navbar-light.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
@@ -9041,7 +9041,7 @@ h1, h2, h3, h4, h5,
     /* Firefox 18- */
     color: rgba(0, 0, 0, 0.4); }
   .billing-form .form-control:focus, .billing-form .form-control:active {
-    border-color: #82ae46 !important; }
+    border-color: #981004 !important; }
 
 .billing-form textarea.form-control {
   height: inherit !important; }
@@ -9124,7 +9124,7 @@ h1, h2, h3, h4, h5,
       -ms-border-radius: 0;
       border-radius: 0;
       font-size: 12px;
-      background: #82ae46 !important; }
+      background: #981004 !important; }
       .subscribe-form .form-group .submit:hover {
         cursor: pointer; }
   .subscribe-form .icon {
@@ -9714,9 +9714,9 @@ textarea.form-control {
       .block-17 form .search-submit {
         width: 80px; } }
     .block-17 form .search-submit:hover {
-      background: #82ae46 !important;
+      background: #981004 !important;
       color: #fff !important;
-      border: 1px solid #82ae46 !important; }
+      border: 1px solid #981004 !important; }
 
 .block-27 ul {
   padding: 0;
@@ -9856,7 +9856,7 @@ textarea.form-control {
       /* Firefox 18- */
       color: black; }
     .search-form .form-group input:focus, .search-form .form-group input:active {
-      border-color: #82ae46 !important; }
+      border-color: #981004 !important; }
 
 .search-form .icon {
   position: absolute;
