@@ -1,9 +1,9 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Beranda extends CI_Controller {
+class A_login extends CI_Controller {
 	public function index()
 	{
-		$this->load->view('web/v_beranda');
+		$this->load->view('admin/v_login');
 	}
 }
